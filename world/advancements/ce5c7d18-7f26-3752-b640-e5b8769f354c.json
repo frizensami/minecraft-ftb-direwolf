@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2018-05-04 22:22:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-05-03 01:18:26 +0800"

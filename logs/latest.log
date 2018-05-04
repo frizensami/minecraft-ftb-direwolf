@@ -1,112 +1,318 @@
-[00:00:41] [Server thread/INFO]: frizensami[/127.0.0.1:58400] logged in with entity id 8743 at (-82.09782744857353, 71.0, 57.57211661001148)
-[00:00:41] [Server thread/INFO]: frizensami joined the game
-[00:06:07] [Server thread/INFO]: MariahCarry was slain by Enderman
-[00:06:59] [Server thread/INFO]: MariahCarry was slain by Enderman
-[00:08:09] [Server thread/INFO]: SoulNuva lost connection: Timed out
-[00:08:09] [Server thread/INFO]: SoulNuva left the game
-[00:08:25] [Server thread/INFO]: MariahCarry got revenge on Enderman
-[00:08:47] [Server thread/INFO]: SoulNuva[/172.31.106.32:1512] logged in with entity id 15966 at (-49.61987521057908, 68.0, 79.79421235175681)
-[00:08:47] [Server thread/INFO]: SoulNuva joined the game
-[00:09:06] [Server thread/INFO]: SoulNuva lost connection: Disconnected
-[00:09:06] [Server thread/INFO]: SoulNuva left the game
-[00:10:12] [Server thread/INFO]: SoulNuva[/172.31.106.32:1523] logged in with entity id 16850 at (-49.61987521057908, 68.0, 79.79421235175681)
-[00:10:12] [Server thread/INFO]: SoulNuva joined the game
-[00:10:26] [Server thread/INFO]: SoulNuva was slain by Zombie
-[00:10:32] [Server thread/INFO]: <frizensami> peis
-[00:10:39] [Server thread/INFO]: <SoulNuva> lag
-[00:11:09] [Server thread/INFO]: SoulNuva was slain by Spider
-[00:14:41] [Server thread/INFO]: SoulNuva has made the advancement [Getting an Upgrade]
-[00:17:37] [Server thread/INFO]: SoulNuva lost connection: Disconnected
-[00:17:37] [Server thread/INFO]: SoulNuva left the game
-[00:20:13] [Server thread/INFO]: SoulNuva[/172.31.106.32:1600] logged in with entity id 27009 at (-80.34001066260967, 71.0, 56.563439711150224)
-[00:20:13] [Server thread/INFO]: SoulNuva joined the game
-[00:20:35] [Server thread/INFO]: SoulNuva lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[00:20:35] [Server thread/INFO]: SoulNuva left the game
-[00:20:52] [Server thread/INFO]: [MariahCarry: Given [Bucket] * 16 to MariahCarry]
-[00:24:12] [Server thread/INFO]: MariahCarry has made the advancement [Ice Bucket Challenge]
-[00:24:50] [Server thread/INFO]: [frizensami: Given [Treetap] * 1 to frizensami]
-[00:24:51] [Server thread/INFO]: [frizensami: Given [Treetap] * 1 to frizensami]
-[00:24:51] [Server thread/INFO]: [frizensami: Given [Treetap] * 1 to frizensami]
-[00:29:23] [Server thread/INFO]: frizensami has made the advancement [Ice Bucket Challenge]
-[00:31:12] [Server thread/INFO]: SoulNuva lost connection: Timed out
-[00:31:12] [Server thread/INFO]: SoulNuva left the game
-[00:31:51] [Server thread/WARN]: frizensami moved too quickly! 78.19999998807907,-40.0,-40.06085009783378
-[00:31:53] [Server thread/WARN]: MariahCarry moved too quickly! 78.19999998807907,-40.0,-40.194870559033006
-[00:32:06] [Server thread/INFO]: SoulNuva[/172.31.106.32:1762] logged in with entity id 37555 at (-80.34001066260967, 71.0, 56.563439711150224)
-[00:32:06] [Server thread/INFO]: SoulNuva joined the game
-[00:32:18] [Server thread/WARN]: frizensami moved too quickly! -77.5823566430222,40.0,40.91912484222437
-[00:32:23] [Server thread/INFO]: SoulNuva lost connection: Timed out
-[00:32:23] [Server thread/INFO]: SoulNuva left the game
-[00:33:39] [Server thread/INFO]: SoulNuva[/172.31.106.32:1773] logged in with entity id 38964 at (-80.34001066260967, 71.0, 56.563439711150224)
-[00:33:39] [Server thread/INFO]: SoulNuva joined the game
-[00:44:41] [Server thread/INFO]: MariahCarry lost connection: Timed out
-[00:44:41] [Server thread/INFO]: MariahCarry left the game
-[00:46:27] [Server thread/INFO]: MariahCarry lost connection: Timed out
-[00:46:27] [Server thread/INFO]: MariahCarry left the game
-[00:47:03] [Server thread/INFO]: MariahCarry[/172.31.21.214:58201] logged in with entity id 55688 at (0.4245423008302886, 20.0, 1.4202667535580138)
-[00:47:03] [Server thread/INFO]: MariahCarry joined the game
-[00:47:13] [Server thread/INFO]: SoulNuva has made the advancement [Sweet dreams]
-[00:48:09] [Server thread/INFO]: [MariahCarry: Teleported MariahCarry to frizensami]
-[00:48:29] [Server thread/INFO]: frizensami lost connection: Disconnected
-[00:48:29] [Server thread/INFO]: frizensami left the game
-[00:48:34] [Server thread/WARN]: MariahCarry moved wrongly!
-[00:48:54] [Server thread/INFO]: frizensami[/127.0.0.1:59292] logged in with entity id 57770 at (-84.68694726988447, 71.0, 54.19507043700107)
-[00:48:54] [Server thread/INFO]: frizensami joined the game
-[00:50:29] [Server thread/INFO]: SoulNuva has made the advancement [Stone Age]
-[01:01:21] [Server thread/WARN]: MariahCarry moved too quickly! 78.19999998807907,-40.0,-38.80000001192093
-[01:01:21] [Server thread/WARN]: frizensami moved too quickly! 77.97184460995054,-40.0,-41.199999988079085
-[01:01:36] [Server thread/INFO]: SoulNuva has made the advancement [We Need to Go Deeper]
-[01:04:22] [Server thread/INFO]: SoulNuva tried to swim in lava
-[01:07:47] [Server thread/WARN]: frizensami moved too quickly! -78.23025788393429,40.0,40.54249169784177
-[01:09:16] [Server thread/WARN]: frizensami moved too quickly! 78.01146541150597,-40.0,-40.34673429660214
-[01:15:48] [Server thread/INFO]: SoulNuva has made the advancement [Acquire Hardware]
-[01:16:14] [Server thread/INFO]: SoulNuva has made the advancement [HAMMAH!]
-[01:16:59] [Server thread/INFO]: frizensami has made the advancement [HAMMAH!]
-[01:21:25] [Server thread/WARN]: frizensami moved too quickly! -77.94177762834242,40.0,40.70713812161284
-[01:22:26] [Server thread/WARN]: SoulNuva moved wrongly!
-[01:26:38] [Server thread/INFO]: <frizensami> 2x diamond, 4x obsidian, 1x book
-[01:26:45] [Server thread/INFO]: <frizensami> 5x gold
-[01:26:52] [Server thread/INFO]: <frizensami> 1x ender pearl
-[01:33:07] [Server thread/INFO]: MariahCarry lost connection: Disconnected
-[01:33:07] [Server thread/INFO]: MariahCarry left the game
-[01:35:03] [Server thread/WARN]: frizensami moved wrongly!
-[01:35:30] [Server thread/INFO]: SoulNuva has made the advancement [Monster Hunter]
-[01:36:43] [Server thread/INFO]: anpig[/172.31.97.65:50602] logged in with entity id 113514 at (-97.5769056322525, 71.0, 60.98012335919311)
-[01:36:43] [Server thread/INFO]: anpig joined the game
-[01:40:09] [Server thread/INFO]: frizensami lost connection: Disconnected
-[01:40:09] [Server thread/INFO]: frizensami left the game
-[01:43:16] [Server thread/INFO]: SoulNuva has made the advancement [Sky of Beginning]
-[01:43:27] [Server thread/WARN]: SoulNuva moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat (vehicle of SoulNuva) moved too quickly! -9.7671261217032,0.0,-3.384486870129672
-[01:45:04] [Server thread/WARN]: Boat (vehicle of SoulNuva) moved too quickly! -10.156255410856375,0.0,-3.466302785821533
-[01:45:04] [Server thread/WARN]: Boat (vehicle of SoulNuva) moved too quickly! -10.546309777849842,0.0,-3.5435332655276124
-[01:45:04] [Server thread/WARN]: Boat (vehicle of SoulNuva) moved too quickly! -10.93722027361332,0.0,-3.6163655929159333
-[01:45:58] [Server thread/INFO]: anpig has made the advancement [Sweet dreams]
-[01:46:04] [Server thread/WARN]: anpig moved wrongly!
-[01:57:33] [Server thread/WARN]: anpig moved wrongly!
-[01:58:27] [Server thread/INFO]: anpig lost connection: Disconnected
-[01:58:27] [Server thread/INFO]: anpig left the game
-[02:06:14] [Server thread/INFO]: frizensami[/127.0.0.1:60508] logged in with entity id 177674 at (-84.04012871393127, 71.0, 49.82530601357868)
-[02:06:14] [Server thread/INFO]: frizensami joined the game
-[02:06:27] [Server thread/INFO]: frizensami lost connection: Disconnected
-[02:06:27] [Server thread/INFO]: frizensami left the game
-[02:06:46] [Server thread/INFO]: SoulNuva lost connection: Disconnected
-[02:06:46] [Server thread/INFO]: SoulNuva left the game
-[02:07:04] [Server thread/INFO]: Available SubCommands: stop, getsize and start
-[02:07:07] [Server thread/INFO]: Server launched a manual backup!
-[02:07:11] [Server thread/INFO]: Stopping the server
-[02:07:11] [Server thread/INFO]: Stopping server
-[02:07:11] [Server thread/INFO]: Saving players
-[02:07:11] [Server thread/INFO]: Saving worlds
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/lostcities
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/twilight_forest
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/CompactMachines
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
-[02:07:11] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[02:07:13] [Server Shutdown Thread/INFO]: Stopping server
-[02:07:13] [Server Shutdown Thread/INFO]: Saving players
-[02:07:13] [Server Shutdown Thread/INFO]: Saving worlds
+[19:08:04] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:10:26] [Server thread/INFO]: Loading properties
+[19:10:27] [Server thread/INFO]: Default game type: SURVIVAL
+[19:10:27] [Server thread/INFO]: Generating keypair
+[19:10:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:10:27] [Server thread/INFO]: Using default channel type
+[19:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:11:11] [Server thread/WARN]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[19:11:15] [Server thread/INFO]: Preparing level "world"
+[19:11:20] [Server thread/WARN]: Couldn't find resource table meecreeps:entities/meecreeps
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/pumpkin_pie
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:pumpkin_pie'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/mushroom_stew
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mushroom_stew'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/cookie
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:cookie'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/bread
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bread'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/beetroot_soup
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:beetroot_soup'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/combat/leather_leggings
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:leather_leggings'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/combat/leather_helmet
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:leather_helmet'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/combat/leather_chestplate
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:leather_chestplate'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:20] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/combat/leather_boots
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:leather_boots'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_172]
+[19:11:21] [Server thread/INFO]: Loaded 919 advancements
+[19:11:23] [Server thread/INFO]: Preparing start region for level 0
+[19:11:24] [Server thread/INFO]: Preparing spawn area: 0%
+[19:11:25] [Server thread/INFO]: Preparing spawn area: 27%
+[19:11:26] [Server thread/INFO]: Preparing spawn area: 61%
+[19:11:27] [Server thread/INFO]: Done (12.429s)! For help, type "help" or "?"
+[19:11:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2608ms behind, skipping 52 tick(s)
+[19:55:01] [Server thread/INFO]: MariahCarry[/127.0.0.1:50788] logged in with entity id 434 at (-80.1785625821227, 71.0, 52.27352715247655)
+[19:55:01] [Server thread/INFO]: MariahCarry joined the game
+[19:55:01] [Server thread/INFO]: MariahCarry has made the advancement [HAMMAH!]
+[19:55:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5245ms behind, skipping 104 tick(s)
+[20:00:54] [Server thread/INFO]: MariahCarry has made the advancement [Sweet dreams]
+[20:58:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2214ms behind, skipping 44 tick(s)
+[20:58:35] [Server thread/INFO]: MariahCarry lost connection: Timed out
+[20:58:35] [Server thread/INFO]: MariahCarry left the game
+[20:58:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4940ms behind, skipping 98 tick(s)
+[21:00:10] [Server thread/INFO]: MariahCarry[/127.0.0.1:51602] logged in with entity id 47555 at (-77.57776532887384, 60.0, 40.57453657348245)
+[21:00:10] [Server thread/INFO]: MariahCarry joined the game
+[21:00:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5822ms behind, skipping 116 tick(s)
+[21:00:32] [Server thread/INFO]: MariahCarry lost connection: Disconnected
+[21:00:32] [Server thread/INFO]: MariahCarry left the game
+[21:00:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2660ms behind, skipping 53 tick(s)
+[21:01:38] [Server thread/INFO]: MariahCarry[/127.0.0.1:51628] logged in with entity id 47845 at (-77.57776532887384, 60.0, 40.57453657348245)
+[21:01:38] [Server thread/INFO]: MariahCarry joined the game
+[21:01:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3492ms behind, skipping 69 tick(s)
+[21:06:02] [Server thread/INFO]: MariahCarry has made the advancement [Under Pressure]
+[21:11:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2338ms behind, skipping 46 tick(s)
+[21:11:27] [Server thread/INFO]: MariahCarry lost connection: Timed out
+[21:11:27] [Server thread/INFO]: MariahCarry left the game
+[21:12:29] [Server thread/INFO]: MariahCarry[/127.0.0.1:51695] logged in with entity id 49960 at (0.36396580185025634, 20.0, 1.166920794989164)
+[21:12:29] [Server thread/INFO]: MariahCarry joined the game
+[21:12:39] [Server thread/INFO]: MariahCarry suffocated in a wall
+[21:12:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13640ms behind, skipping 272 tick(s)
+[21:16:39] [Server thread/INFO]: MariahCarry lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[21:16:39] [Server thread/INFO]: MariahCarry left the game
+[21:49:58] [Server thread/INFO]: Syl[/172.31.42.24:53523] logged in with entity id 53710 at (-82.63122384743981, 71.0, 52.19149884685798)
+[21:49:58] [Server thread/INFO]: Syl joined the game
+[21:52:24] [Server thread/INFO]: Syl has made the advancement [Sweet dreams]
+[22:00:27] [Server thread/INFO]: Don[/172.31.19.104:57844] logged in with entity id 64282 at (-83.61777827338595, 71.0, 53.38152013630777)
+[22:00:27] [Server thread/INFO]: Don joined the game
+[22:05:54] [Server thread/WARN]: Syl moved wrongly!
+[22:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 197679ms behind, skipping 3953 tick(s)
+[22:19:15] [Server thread/INFO]: Syl lost connection: Timed out
+[22:19:15] [Server thread/INFO]: Syl left the game
+[22:19:16] [Server thread/INFO]: Don lost connection: Timed out
+[22:19:16] [Server thread/INFO]: Don left the game
+[22:20:26] [Server thread/INFO]: MariahCarry[/127.0.0.1:52088] logged in with entity id 81117 at (-73.69999998807909, 31.5, 10.808452706473311)
+[22:20:26] [Server thread/INFO]: MariahCarry joined the game
+[22:20:37] [Server thread/INFO]: Syl[/172.31.42.24:53860] logged in with entity id 81313 at (-111.56896039523009, 73.0, 67.42031551443016)
+[22:20:37] [Server thread/INFO]: Syl joined the game
+[22:20:51] [Server thread/INFO]: Don[/172.31.19.104:59272] logged in with entity id 81686 at (-81.38186322624846, 71.0, 54.64351409627487)
+[22:20:51] [Server thread/INFO]: Don joined the game
+[22:21:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19730ms behind, skipping 394 tick(s)
+[22:22:01] [Server thread/INFO]: Don has made the advancement [Sweet dreams]
+[22:22:07] [Server thread/WARN]: Don moved wrongly!
+[22:22:07] [Server thread/WARN]: Syl moved wrongly!
+[22:26:20] [Server thread/INFO]: Syl was blown up by Creeper
+[22:33:12] [Server thread/INFO]: anpig[/172.31.97.65:56696] logged in with entity id 97181 at (-84.5, 71.0, 50.5)
+[22:33:12] [Server thread/INFO]: anpig joined the game
+[22:33:54] [Server thread/WARN]: MariahCarry moved wrongly!
+[22:33:54] [Server thread/WARN]: Syl moved wrongly!
+[22:34:04] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:34:06] [Server thread/INFO]: [Server] penis
+[22:39:15] [Server thread/INFO]: MariahCarry lost connection: Disconnected
+[22:39:15] [Server thread/INFO]: MariahCarry left the game
+[22:39:17] [Server thread/INFO]: Syl lost connection: Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine
+[22:39:17] [Server thread/INFO]: Syl left the game
+[22:39:21] [Server thread/INFO]: Don lost connection: Disconnected
+[22:39:21] [Server thread/INFO]: Don left the game
+[22:39:27] [Server thread/INFO]: anpig lost connection: Disconnected
+[22:39:27] [Server thread/INFO]: anpig left the game
+[22:39:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2190ms behind, skipping 43 tick(s)
+[22:40:02] [Server thread/INFO]: Stopping the server
+[22:40:02] [Server thread/INFO]: Stopping server
+[22:40:02] [Server thread/INFO]: Saving players
+[22:40:02] [Server thread/INFO]: Saving worlds
+[22:40:02] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/lostcities
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/twilight_forest
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/CompactMachines
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/MiningWorld
+[22:40:03] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[22:40:06] [Server Shutdown Thread/INFO]: Stopping server
+[22:40:06] [Server Shutdown Thread/INFO]: Saving players
+[22:40:06] [Server Shutdown Thread/INFO]: Saving worlds
