@@ -1,0 +1,35 @@
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Loading scripts
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 00_default.zs}
+[INITIALIZATION][SERVER][INFO] Altering Casting Recipe(s) for <ic2:resource:10>
+[INITIALIZATION][SERVER][INFO] Altering Casting Recipe(s) for <chisel:blockcobalt>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <tconstruct:toolforge>: Can be made from any metal block
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <ic2:misc_resource:3>: Keep out of reach of Soaryns
+[INITIALIZATION][SERVER][INFO] Adding Laser drill Certus Quartz Ore
+[INITIALIZATION][SERVER][INFO] Adding Laser drill Charged Certus Quartz Ore
+[INITIALIZATION][SERVER][INFO] Adding Laser drill Black Quartz Ore
+[INITIALIZATION][SERVER][INFO] Adding Laser drill Apatite Ore
+[INITIALIZATION][SERVER][INFO] Adding Laser drill Mana Infused Ore
+[INITIALIZATION][SERVER][INFO] Removing Crusher Recipe for Black Quartz
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Crushed Black Quartz
+[INITIALIZATION][SERVER][INFO] Adding Block of Charcoal to ore dictionary entry blockCharcoal
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <tconstruct:tooltables>: Disabled due to a dupe bug
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <actuallyadditions:item_misc:5>
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bread with name ct_shaped-2028334964
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Ingot with name ct_shapeless-382738219
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Gear with name ct_shaped-1302727366
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper Gear with name ct_shaped-1119309105
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tin Gear with name ct_shaped-1335539270
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Gear with name ct_shaped1775206244
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Cap with name ct_shaped1766384284
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Tunic with name ct_shaped1875097385
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Pants with name ct_shaped-1981477964
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Boots with name ct_shaped-991182276
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <ic2:crafting:17> in mode: PRESS
+[AVAILABLE][SERVER][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <appliedenergistics2:material:2>
+[AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Bronze Ingot
+[AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Bronze Ingot
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7> * 2
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7>

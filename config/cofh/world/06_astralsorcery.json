@@ -1,0 +1,51 @@
+{
+  "dependencies": "astralsorcery",
+  "populate": {
+    "rock_crystal_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {"name": "astralsorcery:blockcustomore", "metadata": 0, "weight": 100}
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 2
+      },
+      "cluster-count": 1,
+      "chunk-chance": 15,
+      "min-height": 2,
+      "max-height": 6,
+      "enabled": "false",
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      } 
+    },
+    "aquamarine_shale": {
+      "distribution": "underfluid",
+      "generator": {
+        "block": [
+          {"name": "astralsorcery:blockcustomsandore", "metadata": 0, "weight": 100}
+        ],
+        "material": "minecraft:sand",
+        "cluster-size": 2
+      },
+      "cluster-count": 64,
+      "fluid": "water",
+      "enabled": "false",
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

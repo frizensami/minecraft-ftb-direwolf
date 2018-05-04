@@ -1,0 +1,27 @@
+{
+  "dependencies": "bigreactors",
+  "populate": {
+    "yellorite_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {"name": "bigreactors:brore", "metadata": 0, "weight": 0}
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 5
+      },
+      "cluster-count": 2,
+      "min-height": 8,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

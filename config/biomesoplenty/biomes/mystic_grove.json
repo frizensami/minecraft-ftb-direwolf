@@ -1,0 +1,307 @@
+{
+  "generators": {
+    "algae": {
+      "enable": true
+    },
+    "amber": {
+      "enable": false
+    },
+    "amethyst": {
+      "enable": true
+    },
+    "berry_bushes": {
+      "enable": true
+    },
+    "big_brown_mushroom": {
+      "enable": true
+    },
+    "big_red_mushroom": {
+      "enable": true
+    },
+    "biome_essence": {
+      "enable": true
+    },
+    "blood_pools": {
+      "enable": true
+    },
+    "blue_coral": {
+      "enable": true
+    },
+    "blue_milk_caps": {
+      "enable": true
+    },
+    "boulders": {
+      "enable": true
+    },
+    "bromeliad": {
+      "enable": true
+    },
+    "brown_mushrooms": {
+      "enable": true
+    },
+    "bushes": {
+      "enable": true
+    },
+    "cacti": {
+      "enable": true
+    },
+    "cattail": {
+      "enable": true
+    },
+    "clover_patches": {
+      "enable": true
+    },
+    "cobblestone_splatter": {
+      "enable": true
+    },
+    "crystals": {
+      "enable": true
+    },
+    "dead_bushes": {
+      "enable": true
+    },
+    "dead_grass": {
+      "enable": true
+    },
+    "dead_leaf_piles": {
+      "enable": true
+    },
+    "desert_sprouts": {
+      "enable": true
+    },
+    "desertgrass": {
+      "enable": true
+    },
+    "double_cattail": {
+      "enable": true
+    },
+    "double_fern": {
+      "enable": true
+    },
+    "dunegrass": {
+      "enable": true
+    },
+    "emeralds": {
+      "enable": true
+    },
+    "eyebulbs": {
+      "enable": true
+    },
+    "fire": {
+      "enable": true
+    },
+    "flat_mushroom": {
+      "enable": true
+    },
+    "flax": {
+      "enable": true
+    },
+    "flower_lily": {
+      "enable": true
+    },
+    "flowers": {
+      "enable": true
+    },
+    "glowing_coral": {
+      "enable": true
+    },
+    "glowshrooms": {
+      "enable": true
+    },
+    "glowshrooms_surface": {
+      "enable": true
+    },
+    "glowstone_crystals": {
+      "enable": true
+    },
+    "grass": {
+      "enable": true
+    },
+    "grass_splatter": {
+      "enable": true
+    },
+    "gravel": {
+      "enable": true
+    },
+    "hard_ice_splatter": {
+      "enable": true
+    },
+    "hive": {
+      "enable": true
+    },
+    "hot_springs": {
+      "enable": true
+    },
+    "ice_crystals": {
+      "enable": true
+    },
+    "ice_pools": {
+      "enable": true
+    },
+    "ivy": {
+      "enable": true
+    },
+    "kelp": {
+      "enable": true
+    },
+    "kelp_tall": {
+      "enable": true
+    },
+    "koru": {
+      "enable": true
+    },
+    "lakes": {
+      "enable": true
+    },
+    "large_oak": {
+      "enable": true
+    },
+    "lava_flows": {
+      "enable": true
+    },
+    "lava_lakes": {
+      "enable": true
+    },
+    "lavender": {
+      "enable": true
+    },
+    "leaf_piles": {
+      "enable": true
+    },
+    "leaves_clusters": {
+      "enable": true
+    },
+    "lily": {
+      "enable": true
+    },
+    "magma_splatter": {
+      "enable": true
+    },
+    "malachite": {
+      "enable": false
+    },
+    "medium_lily": {
+      "enable": true
+    },
+    "melons": {
+      "enable": true
+    },
+    "miners_delight": {
+      "enable": true
+    },
+    "mud": {
+      "enable": true
+    },
+    "mud_patches": {
+      "enable": true
+    },
+    "netherrack_splatter": {
+      "enable": true
+    },
+    "oases": {
+      "enable": true
+    },
+    "orange_coral": {
+      "enable": true
+    },
+    "overgrown_stone_patches": {
+      "enable": true
+    },
+    "peridot": {
+      "enable": false
+    },
+    "pink_coral": {
+      "enable": true
+    },
+    "poison_ivy": {
+      "enable": true
+    },
+    "poison_lakes": {
+      "enable": true
+    },
+    "portobellos": {
+      "enable": true
+    },
+    "quicksand": {
+      "enable": true
+    },
+    "rafflesia": {
+      "enable": true
+    },
+    "red_mushrooms": {
+      "enable": true
+    },
+    "river_cane": {
+      "enable": true
+    },
+    "roots": {
+      "enable": true
+    },
+    "ruby": {
+      "enable": false
+    },
+    "sacred_oak_trees": {
+      "enable": true
+    },
+    "sand": {
+      "enable": true
+    },
+    "sapphire": {
+      "enable": false
+    },
+    "shrubs": {
+      "enable": true
+    },
+    "small_lily": {
+      "enable": true
+    },
+    "snow_splatter": {
+      "enable": true
+    },
+    "sprouts": {
+      "enable": true
+    },
+    "stone_formations": {
+      "enable": true
+    },
+    "stone_patches": {
+      "enable": true
+    },
+    "stone_splatter": {
+      "enable": true
+    },
+    "sugar_cane": {
+      "enable": true
+    },
+    "tanzanite": {
+      "enable": false
+    },
+    "thorns": {
+      "enable": true
+    },
+    "tiny_cacti": {
+      "enable": true
+    },
+    "tiny_lily": {
+      "enable": true
+    },
+    "toadstools": {
+      "enable": true
+    },
+    "topaz": {
+      "enable": false
+    },
+    "trees": {
+      "enable": true
+    },
+    "vinesState": {
+      "enable": true
+    },
+    "water_reeds": {
+      "enable": true
+    },
+    "wild_rice": {
+      "enable": true
+    }
+  }
+}

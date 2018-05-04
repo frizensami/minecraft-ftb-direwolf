@@ -1,0 +1,53 @@
+{
+  "dependencies": "tconstruct",
+  "populate": {
+    "cobalt_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {"name": "tconstruct:ore", "metadata": 0, "weight": 100}
+        ],
+        "material": "minecraft:netherrack",
+        "cluster-size": 4
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": "true",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "ardite_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {"name": "tconstruct:ore", "metadata": 1, "weight": 100}
+        ],
+        "material": "minecraft:netherrack",
+        "cluster-size": 4
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": "true",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    }
+  }
+}
